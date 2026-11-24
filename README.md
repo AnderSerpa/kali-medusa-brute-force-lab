@@ -59,7 +59,7 @@ Projeto pratico desenvolvido para o desafio de Ciberseguranca da DIO, utilizando
 
 ## Referencias
 
-- Medusa: https://www.foofus.net/?page_id=51
+- Medusa: https://www.kali.org/tools/medusa/
 - Nmap: https://nmap.org/docs.html
 - Kali Linux: https://www.kali.org/docs/
 - DVWA: https://github.com/digininja/DVWA
